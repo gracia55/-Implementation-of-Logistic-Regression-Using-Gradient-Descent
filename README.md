@@ -16,7 +16,7 @@ Calculate the accuracy, confusion and classification report by importing the req
 Obtain the graph.
 
 # Program:
-
+```
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: Gracia Ravi
@@ -112,7 +112,7 @@ def predict(theta,X):
   return (prob >=0.5).astype(int)
 
 np.mean(predict(res.x,X)==y)
-
+```
 # Output:
 # Array Value of x
 ![image](https://github.com/gracia55/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/129026838/87de6675-3827-4dbd-950e-556a647786b6)
