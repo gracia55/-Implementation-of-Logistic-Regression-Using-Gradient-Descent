@@ -154,5 +154,5 @@ np.mean(predict(res.x,X)==y)
 ![image](https://github.com/gracia55/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/129026838/467be9e2-6de4-4c12-a3b1-11b138459235)
 
 
-# Result:
+#  Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
